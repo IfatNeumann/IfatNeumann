@@ -1,12 +1,14 @@
 ### Hi there 👋
+<br/>
+<img align="left" src="ifatNeumann.jpg" width="80" style="margin-right: 10px; margin-top: 5px"/>
 
 Welcome to my GitHub!
-<img src="ifatNeumann.jpg" alt="isolated" width="80" style="float: left; margin-right: 20px; margin-top: 5px"/>
 
-You've probably arrived here to learn more about me and my abilities, but you'll mostly find old University excersises I submitted when I was a student 😅
+You've probably arrived here to learn more about me and my abilities, but you'll mostly find old University excersises I submitted when I was a student 😅  
+<br/>
 
 So let me introduce myself!
-- 👩‍💻 I work as a Software Development Engineer at [Amazon](https://www.amazon.com/)'s Payment Security, and am a part of multiple teams that make sure your details are secured safely throughout the payment process!
+- 👩‍💻 I work as a Software Development Engineer at [Amazon](https://www.amazon.com/)'s Payment Security, and am a part of multiple teams that make sure your details are secured throughout the payment process!
 - ☕ I'm tech-blogging at [CupofCode](https://cupofcode.blog/) with the passion to make technical knowledge more accecible and less scary (*“If you can't explain it to a six year old, you don't understand it yourself.”― Albert Einstein* 😉).
 - 👩‍👧‍👧 I volunteer at [AliceCode](https://www.alicecode.org/en) and teach girls ages 12-14 programming, exposing them to the wonderous world of software development, and to useful abilities that are way beyond code! 
 
